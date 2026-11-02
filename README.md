@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AdamTheEmperor">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=858&text=Hello!%20I'm%20%F0%9D%98%BC%F0%9D%99%86%F0%9D%99%90%F0%9D%99%88%F0%9D%98%BC%20%F0%9F%92%A2" alt="Hello! I&#39;m 𝘼𝙆𝙐𝙈𝘼 💢" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=858&text=Hello!%20I'm%20%F0%9D%98%BC%F0%9D%99%86%F0%9D%99%90%F0%9D%99%88%F0%9D%98%BC%20%F0%9F%92%A2" alt="Hello! I&#39;m 𝓐𝓴𝓾𝓶𝓪 💢 - 恐 敬" />
   </a>
 </p>
 
