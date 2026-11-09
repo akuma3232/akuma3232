@@ -26,7 +26,7 @@
     <td width="78%" valign="middle">
       <h2>𝓐𝓴𝓾𝓶𝓪 💢 - 恐 敬</h2>
       <p>
-        <code>@akuma3232</code> &nbsp;·&nbsp; <code>he / him</code> &nbsp;·&nbsp;
+        <code>@akuma3232</code> &nbsp;·&nbsp; <code>𝕯𝖊𝖆𝖙𝖍</code> &nbsp;·&nbsp;
         <i>"Fear follows my steps. Respect is earned."</i>
       </p>
       <!-- EMPEROR ROLE BADGE -->
@@ -100,7 +100,7 @@
         <b>🎓 Degree:</b> <code>Cyber Security</code><br />
         <b>🎯 Focus:</b> <code>Red Teaming &amp; Exploits</code><br />
         <b>🕵️ Passion:</b> <code>Detective Conan — Gin 🔥</code><br />
-        <b>👤 Pronouns:</b> <code>he / him</code><br />
+        <b>👤 Pronouns:</b> <code>𝕯𝖊𝖆𝖙𝖍</code><br />
         <b>⚡ Classified:</b> <code>𝕯𝖊𝖆𝖙𝖍</code><br />
         <b>🌐 Syndicate:</b> <code>Akuma Dark Syndicate</code>
       </p>
