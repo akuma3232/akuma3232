@@ -29,8 +29,13 @@
         <code>@akuma3232</code> &nbsp;·&nbsp; <code>he / him</code> &nbsp;·&nbsp;
         <i>"Fear follows my steps. Respect is earned."</i>
       </p>
+      <!-- EMPEROR ROLE BADGE -->
       <p>
-        <img src="https://img.shields.io/badge/%F0%9F%91%91_The_Emperor-ED4245?style=flat-square" alt="The Emperor" />
+        <img src="./assets/badge.png" alt="Emperor Crown Badge" height="36" align="absmiddle" />
+        &nbsp;
+        <b>👑 𝓣𝓱𝓮 𝓔𝓶𝓹𝓮𝓻𝓸𝓻 たカ援 ♔</b>
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_Red_Teamer-FF3333?style=flat-square" alt="Red Teamer" />
         <img src="https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F_Black_Organization-111214?style=flat-square" alt="Black Org" />
         <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Exploit_Dev-9B59B6?style=flat-square" alt="Exploit Dev" />
@@ -100,6 +105,11 @@
         <b>🌐 Syndicate:</b> <code>Akuma Dark Syndicate</code>
       </p>
       <hr />
+      <p align="center">
+        <img src="./assets/badge.png" alt="Emperor Crown" height="28" align="absmiddle" />
+        &nbsp;
+        <b>👑 𝓣𝓱𝓮 𝓔𝓶𝓹𝓮𝓻𝓸𝓻 たカ援 ♔</b>
+      </p>
       <p align="center">
         <kbd>RED TEAM</kbd> &nbsp;
         <kbd>PENTESTING</kbd> &nbsp;
